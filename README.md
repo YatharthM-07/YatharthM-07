@@ -1,110 +1,47 @@
-<!-- ===================== TYPING HEADER ===================== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I'm+Yatharth+Mishra;B.Tech+CSE+Fresher+🚀;Backend+%7C+ML+%7C+Flask+%7C+Spring+Boot;&center=true&size=32&color=F7A8B8">
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+Yatharth+Mishra.;&center=true&size=30&color=F7A8B8">
+</a>
 
-<h1 align="center">✨ Yatharth Mishra ✨</h1>
+# 👋 Hi there, I'm Yatharth Mishra!
 
-<p align="center">
-  <b>B.Tech CSE Fresher | Aspiring Software Developer | India 🇮🇳</b>
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YatharthM-07&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+I'm a **B.Tech Computer Science fresher from India** who enjoys building **backend-focused and product-oriented applications**, along with applying **machine learning to solve real-world problems**.
 
----
-
-## 👋 About Me
-
-- 🎓 **B.Tech Computer Science Fresher**
-- ⚙️ Interested in **Backend, ML & Product-based Systems**
-- 🧠 Love solving real-world problems with code
-- 🔐 Domains: **HealthTech • Cybersecurity • NLP**
-- ☕ Coffee + Music + Code = Productivity
+- 🎓 B.Tech Computer Science Engineering (Fresher)
+- 💡 Interested in backend development, system design & applied ML
+- 🧑‍💻 Backend-focused developer with ML & full-stack exposure
+- 🔐 Domains: HealthTech, Cybersecurity, NLP
+- 💬 Ask me about: Java, Python, C++, Spring Boot, Flask, ML
+- ⚡ Fun fact: I code best with music & coffee ☕🎧
+- 📫 Reach me: www.linkedin.com/in/yatharth-mishra01
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" />
+</div>
 
 ---
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
-</p>
+## 📈 GitHub Stats
 
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35"/>
-</p>
-
----
-
-### 🤖 Machine Learning / NLP
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
-</p>
-
----
-
-### 🧰 Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge"/>
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🩺 PCOS Health Tracker
-🌸 Full-Stack HealthTech Application  
-🛠️ Java • Spring Boot • MySQL • Chart.js  
-🔗 https://github.com/YatharthM-07/pcos-tracker  
-
----
-
-### 🏥 Hospital Waiting Area Seat Allocation
-⚙️ Logic-based System (C++)  
-🧠 Seat allocation & state management  
-🔗 https://github.com/YatharthM-07/Hospital_waiting_area_seat_allocation  
-
----
-
-### 🔐 Phishing Detection Tool
-🤖 ML + Flask + Google Safe Browsing API  
-🧪 Cybersecurity Application  
-🔗 https://github.com/YatharthM-07/phishing_detection_tool  
-
----
-
-### 🗣️ Hate Speech & Offensive Language Detection
-📊 NLP-based Text Classification  
-🌐 Social Impact Project  
-🔗 https://github.com/YatharthM-07/detection_of_hate_speech_-_offensive_language  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YatharthM-07&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatharthM-07&layout=compact&theme=radical" height="165"/>
@@ -112,19 +49,15 @@
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/YatharthM-07">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YatharthM-07)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mishrayatharth39@gmail.com)
 
 ---
 
-✨ **Learning by building. Improving by solving real problems.** ✨
+> *Building software with clarity, purpose, and real-world impact.*
 
+---
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=YatharthM-07&color=blue)
