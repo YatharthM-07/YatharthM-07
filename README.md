@@ -127,11 +127,4 @@
 ✨ **Learning by building. Improving by solving real problems.** ✨
 
 
----
 
-### If later you want to go **beyond GitHub README limits**
-Only one upgrade exists:
-👉 **Animated UI portfolio website (GitHub Pages)**
-
-Say the word *only if* you want that.  
-Otherwise, this file is complete and solid.
